@@ -1,0 +1,15 @@
+.scratchbackground{background-color: rgb(233, 231, 231);} 
+
+.scratchheader{font-family: 'Times New Roman', Times, serif;}
+
+.scratchlist{
+    color: rgb(49, 49, 49);
+    font-style: italic;
+}
+
+.links{text-decoration: underline;}
+
+.position{
+    position: relative;
+    left: 20px;
+}
